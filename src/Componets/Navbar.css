@@ -1,0 +1,47 @@
+.navbar{
+    position: sticky;
+    top: 0%;
+    background-color: rgb(92, 7, 7) !important;
+    color: white !important;
+    z-index: 5;
+}
+.navbar-brand{
+    color: white !important;
+    font-family: 'Lucida Sans Regular';
+    font-weight: bold;
+    padding-left: 90px;
+}
+.nav-link{
+    color:  white !important;
+    font-family: 'Lucida Sans Regular';
+    font-weight: 800;
+    border-radius: 5px;
+    text-decoration: none !important;
+    list-style: none !important;
+
+}
+.nav-item{
+    margin-right: 80px;
+}
+.nav-link:hover{
+    background-color: white !important;
+    color: rgb(92, 7, 7) !important;
+    border-radius: 5px;
+    text-decoration: none !important;
+    list-style: none !important;
+
+
+}
+.nav-link:active{
+    background-color: white !important;
+    color: rgb(92, 7, 7) !important;
+    border-radius: 5px;
+    text-decoration: none !important;
+    list-style: none !important;
+}
+
+#link{
+    text-decoration: none !important;
+    list-style: none !important;
+}
+

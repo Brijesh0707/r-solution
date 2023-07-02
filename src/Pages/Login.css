@@ -1,0 +1,80 @@
+#main{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.login{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 370px;
+
+}
+.login img{
+    width: 300px;
+}
+.form01{
+    height: 300px;
+    width: 300px;
+}
+.form01 form{
+    text-align: center;
+    border-bottom: 2px solid rgb(92, 7, 7);
+    border-top: 2px solid rgb(92, 7, 7);
+    border-right: 2px solid rgb(92, 7, 7);
+    height: 399px;
+}
+.form01 form h1{
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.form01 form label{
+    color: rgb(92, 7, 7);
+    font-family: 'Lucida Sans Regular';
+}
+.form01 form input{
+    border:2px solid rgb(92, 7, 7);
+}
+.form01 form button{
+    background-color: rgb(92, 7, 7);
+    color: white;
+    border: none;
+    width: 150px;
+    margin-top: 20px;
+}
+.form01 form p{
+    cursor: pointer;
+    padding-top: 30px;
+}
+
+#link{
+    color: black !important;
+}
+#link:hover{
+    color: black !important;
+    font-weight: 700;
+}
+@media (max-width:450px) {
+    #main{
+        width: 100%;
+        height: 40%;
+        position: relative;
+    }
+   .login img{
+    width: 300px;
+    display: none;
+    } 
+    .login{
+        display: flex;
+        margin-top: 200px;
+        margin-left: 60px;
+    
+    }
+    .form01 form{
+        text-align: center;
+        border-bottom: 2px solid rgb(92, 7, 7);
+        border-top: 2px solid rgb(92, 7, 7);
+        border-right: 2px solid rgb(92, 7, 7);
+        border-left: 2px solid rgb(92, 7, 7);
+        height: 399px;
+    }
+}

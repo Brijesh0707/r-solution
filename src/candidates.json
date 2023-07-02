@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "location": "New York",
+      "jobRole": "Front-end Developer"
+    },
+    {
+      "id": 2,
+      "name": "mitesh panchal",
+      "location": "Ahmedabad",
+      "jobRole": "Front-end Developer"
+    },
+    {
+      "id": 3,
+      "name": "parthiv panchal",
+      "location": "Ahmedabad",
+      "jobRole": "Front-end Developer"
+    },
+    {
+      "id": 4,
+      "name": "param patel",
+      "location": "Ahmedabad",
+      "jobRole": "Front-end Developer"
+    },
+    {
+      "id": 5,
+      "name": "Jane Smith",
+      "location": "Los Angeles",
+      "jobRole": "Back-end Developer"
+    },
+    {
+      "id": 6,
+      "name": "Mike Johnson",
+      "location": "Chicago",
+      "jobRole": "Full Stack Developer"
+    },
+    {
+      "id": 7,
+      "name": "param patel",
+      "location": "Ahmedabad",
+      "jobRole": "Back-end Developer"
+    },
+    {
+      "id": 8,
+      "name": "david bhai",
+      "location": "Mumbai",
+      "jobRole": "Front-end Developer"
+    }
+  ]
+  
